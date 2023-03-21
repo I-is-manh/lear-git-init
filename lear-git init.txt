@@ -1,0 +1,5 @@
+b1: ta taọ mới 1 repo
+b2: tạo them 1 folder
+b3: viet code 
+git init
+xong viet cac lẹnh như bth khi nao muon gan ay thi ta copy paste lệhn trên git la lệhn remote
